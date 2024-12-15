@@ -4,7 +4,7 @@ import { IMAGE } from './blocks';
 const CONFIG_QUERY_OBJ = `{
   _id,
   "favicon": {
-    src/LOGO BAEV WEB SVG.svg
+    "src": LOGO BAEV WEB SVG.svg
   },
   header {
     ...,
